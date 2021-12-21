@@ -1,0 +1,17 @@
+{
+    "name": "adrian.lux/katas",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Adrian",
+            "email": "adorian@akita-itlabo.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
